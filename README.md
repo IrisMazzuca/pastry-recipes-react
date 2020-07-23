@@ -1,3 +1,10 @@
+# React exercise al ADA IT Bootcamp
+# Pastry Recipes
+
+![Click to go to the website](https://irismazzuca.github.io/Pastry-Recipes-React/)
+
+!(https://www.shareicon.net/data/256x256/2016/07/08/117367_logo_512x512.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
