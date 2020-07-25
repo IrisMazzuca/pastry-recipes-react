@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71486ee50f8a9ec3aa1e522e3f8d7057",
+    "revision": "51a2e89603700aa78fd226cac6a2f7bb",
     "url": "/Pastry-Recipes-React/index.html"
   },
   {
-    "revision": "e9c688e1e2e3004629c6",
+    "revision": "8f3b60b53f1a2b6a1048",
     "url": "/Pastry-Recipes-React/static/css/main.447eca9d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Pastry-Recipes-React/static/js/2.6ef2e2d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e9c688e1e2e3004629c6",
-    "url": "/Pastry-Recipes-React/static/js/main.8dbd0ff3.chunk.js"
+    "revision": "8f3b60b53f1a2b6a1048",
+    "url": "/Pastry-Recipes-React/static/js/main.3aaab577.chunk.js"
   },
   {
     "revision": "397a51245da45e78d3dc",

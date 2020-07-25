@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Pastry-Recipes-React/static/css/main.447eca9d.chunk.css",
-    "main.js": "/Pastry-Recipes-React/static/js/main.8dbd0ff3.chunk.js",
-    "main.js.map": "/Pastry-Recipes-React/static/js/main.8dbd0ff3.chunk.js.map",
+    "main.js": "/Pastry-Recipes-React/static/js/main.3aaab577.chunk.js",
+    "main.js.map": "/Pastry-Recipes-React/static/js/main.3aaab577.chunk.js.map",
     "runtime-main.js": "/Pastry-Recipes-React/static/js/runtime-main.ccc1b2e5.js",
     "runtime-main.js.map": "/Pastry-Recipes-React/static/js/runtime-main.ccc1b2e5.js.map",
     "static/js/2.6ef2e2d7.chunk.js": "/Pastry-Recipes-React/static/js/2.6ef2e2d7.chunk.js",
     "static/js/2.6ef2e2d7.chunk.js.map": "/Pastry-Recipes-React/static/js/2.6ef2e2d7.chunk.js.map",
     "index.html": "/Pastry-Recipes-React/index.html",
-    "precache-manifest.d86e40375c1350b0daeb6728a6823eb8.js": "/Pastry-Recipes-React/precache-manifest.d86e40375c1350b0daeb6728a6823eb8.js",
+    "precache-manifest.6b9f97515e900336b9c70de8ba363485.js": "/Pastry-Recipes-React/precache-manifest.6b9f97515e900336b9c70de8ba363485.js",
     "service-worker.js": "/Pastry-Recipes-React/service-worker.js",
     "static/css/main.447eca9d.chunk.css.map": "/Pastry-Recipes-React/static/css/main.447eca9d.chunk.css.map",
     "static/js/2.6ef2e2d7.chunk.js.LICENSE.txt": "/Pastry-Recipes-React/static/js/2.6ef2e2d7.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.ccc1b2e5.js",
     "static/js/2.6ef2e2d7.chunk.js",
     "static/css/main.447eca9d.chunk.css",
-    "static/js/main.8dbd0ff3.chunk.js"
+    "static/js/main.3aaab577.chunk.js"
   ]
 }
